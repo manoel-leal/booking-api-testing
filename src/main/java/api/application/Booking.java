@@ -5,7 +5,6 @@ import dto.BookingRequest;
 import io.restassured.response.Response;
 
 import static api.Route.BASE_PATH;
-import static api.Route.BASE_PATH;
 
 public class Booking {
 
